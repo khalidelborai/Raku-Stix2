@@ -1,0 +1,19 @@
+{
+  "name": "Stix2",
+  "description": "Write me!",
+  "version": "0.1",
+  "perl": "6.*",
+  "authors": [
+    "Write me!"
+  ],
+  "auth": "Write me!",
+  "depends": [],
+  "build-depends": [],
+  "test-depends": [],
+  "provides": {
+    "Stix2": "lib/Stix2.rakumod"
+  },
+  "resources": [],
+  "license": "Write me!",
+  "source-url": "Write me!"
+}
